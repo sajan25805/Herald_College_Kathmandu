@@ -1,0 +1,30 @@
+
+form {
+
+    display: flex;
+    flex-direction: column;
+    width:40%;
+    margin: 20px;
+    background-color: none;
+
+}
+
+input {
+    border-radius: 20px;
+    border-color: purple;
+    margin-bottom: 10px;
+    padding: 8px;
+}
+
+button{
+    align-self: center;
+    background-color: rgb(29, 37, 145);
+    font: 1em sans-serif;
+    border-radius: 15px;
+    width: 80px;
+    height: 40px;
+    color: white;
+
+
+}
+
