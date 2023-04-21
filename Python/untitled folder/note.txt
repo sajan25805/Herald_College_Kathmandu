@@ -1,0 +1,11 @@
+Dictionaries 
+Methods:
+1.) del():
+    my_dict={"apple":1,"banana":2, "mango":3}
+    
+
+
+
+
+
+List
